@@ -109,7 +109,7 @@ p_base <- ggplot() +
 
 ## Exercise 1: modern Dole effect
 
-Calculate the modern Dole effect based on ther parameters listed above.
+Calculate the modern Dole effect based on the parameters listed above.
 
 ```{r}
 calc_dole_effect(
